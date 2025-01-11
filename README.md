@@ -4,10 +4,10 @@
 path = kagglehub.dataset_download("fivethirtyeight/uber-pickups-in-new-york-city")
 print("Path to dataset files:", path)
 
-Project Overview
+
 This project analyzes ride data from April, May, June, and July in 2014 to find the most popular Uber destinations. Using latitude and longitude coordinates, we determine which places are the most "Ubered" and then visualize them using an interactive map. This past semester, as a freshman without a car, I reviewed my long list of Uber rides and realized I had traveled all over the city of Miami. It made me wonder, if others have the same experience in NYC and, more interestingly, where are they all going? 
 
-Technical and Problem-Solving Skills
+
 The project strengthened my skills in Pandas using data manipulation, aggregation, and statistical analysis. I used Folium to create interactive maps with markers and heatmaps, while Python improved my ability to clean datasets, merge files, and standardize data. This project showed me how to manage large datasets, ensure data integrity, and how to use tools like Folium.
 
 Dataset and Analysis
